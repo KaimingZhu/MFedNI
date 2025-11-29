@@ -1,5 +1,5 @@
 # MFedNI: Robust multimodal federated learning for non-IID multimodal data with incompleteness (FGCS'26)
-ℹ️ **Introduction:** Official implementation of *Robust multimodal federated learning for non-IID multimodal data with incompleteness*, published in *Future Generation Computer Systems(FGCS)*, 2026.
+ℹ️ **Introduction:** Official implementation of *[Robust multimodal federated learning for non-IID multimodal data with incompleteness](https://www.sciencedirect.com/science/article/abs/pii/S0167739X25002432)*, published in *Future Generation Computer Systems(FGCS)*, 2026.
 
 🧑‍🎓 **Authors**: [Songcan Yu](https://www.researchgate.net/profile/Songcan-Yu), [Kaiming Zhu](https://kaimingzhu.github.io/), [Feiyuan Liang](https://github.com/SwtLFYLovesMoney), [Junbo Wang*](https://ise.sysu.edu.cn/teacher/WangJunbo), [Krishna Kant](https://www.kkant.net/), [Ling Yin](https://hpcc.siat.ac.cn/group/spacetime_index.html)
 
