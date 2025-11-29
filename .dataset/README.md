@@ -57,5 +57,5 @@ The customized hyper-params are now hard-coded in each script, including:
 
 Please refer to each script; they are defined at the beginning of each script. 
 
-You could customize them to meet specific conditions.
+You could customize them to meet specific requirements.
 

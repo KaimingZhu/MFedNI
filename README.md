@@ -3,9 +3,9 @@
 
 🧑‍🎓 **Author**: [Songcan Yu](https://www.researchgate.net/profile/Songcan-Yu), [Kaiming Zhu](https://kaimingzhu.github.io/), [Feiyuan Liang](https://github.com/SwtLFYLovesMoney), [Junbo Wang*](https://ise.sysu.edu.cn/teacher/WangJunbo), [Krishna Kant](https://www.kkant.net/), [Ling Yin](https://people.ucas.ac.cn/~yinling)
 
-### 💡 Quick Start (Q&A)
+## 🌟 Quick Start (Q&A)
 
-🤵 **Question 1: Where to start**
+#### Q1: Where to start
 
 Please install necessary package.
 
@@ -14,16 +14,16 @@ Please install necessary package.
 pip install -r requirements.txt
 ```
 
-🤵 **Question 2: Where could I reproduce MFedNI?**
+#### Question 2: Where could I reproduce MFedNI?
 
 - We have provided [a showcase of MFedNI](./mfedni.ipynb).
 - You might need to generate corresponding dataset before you start it, please see [./.dataset](./.dataset/readme.md) for further details.
 
-🤵 **Question 3: How could I generate modal incomplete dataset?**
+#### Question 3: How could I generate modal incomplete dataset?
 
 Please see [./.dataset](./.dataset/readme.md) for further details.
 
-### ✍️ How to cite us
+## ✍️ How to cite us
 
 We appreciate your interest in our work. 
 
