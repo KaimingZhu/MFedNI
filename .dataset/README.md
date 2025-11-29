@@ -50,12 +50,12 @@ The customized hyper-params are now hard-coded in each script, including:
 
 - $\alpha$ of Dirichlet distributions.
 - Switching between the Non-IID distribution and the IID distribution.
-- The amount of data is modal-incomplete.
+- The ratio of modal-incomplete data.
 - The ratio to split the train-set and test-set.
 - The window size for resampling.
 - ...
 
-Please refer to each script; they are defined at the beginning of each script. 
+Please refer to each script. These hyper-params are defined at the beginning of each script. 
 
 You could customize them to meet specific requirements.
 
