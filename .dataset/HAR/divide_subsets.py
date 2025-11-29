@@ -30,7 +30,7 @@ label_key = "labels"
 # hyper-param: client counts
 client_counts: int = 20
 # hyper-param: alpha for dirichlet distribution(Non-IID), set it as `None` if you need IID sampling.
-alpha: Optional[float] = None
+alpha: Optional[float] = 1.0
 # hyper-param: specified random seed, set it as 'None' if you do not need it
 seed: Optional[int] = None
 # hyper-param: a boolean flag to indicate whether users can hold an empty dataset after division.
