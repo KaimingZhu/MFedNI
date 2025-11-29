@@ -135,9 +135,8 @@ class Simulator(DLSimulator):
 
     def _simulation_will_finish(self):
         self._boardcast_parameters()
-        self._visualize_training_metrics_with_tracking()
 
-        if self.__best_state_dict is not None:
+        if self.__best_state_dict is not None and self._need_archiving():
             folder = self.archive_path
             filename = "best_model.pt"
             torch.save(self.__best_state_dict, folder + filename)
