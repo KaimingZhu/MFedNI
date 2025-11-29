@@ -17,11 +17,11 @@ pip install -r requirements.txt
 #### Question 2: Where could I reproduce MFedNI?
 
 - We have provided [a showcase of MFedNI](./mfedni.ipynb).
-- You might need to generate corresponding dataset before you start it, please see [./.dataset](./.dataset/readme.md) for further details.
+- You might need to generate corresponding dataset before you start it, please see [./.dataset](./.dataset/) for further details.
 
 #### Question 3: How could I generate modal incomplete dataset?
 
-Please see [./.dataset](./.dataset/readme.md) for further details.
+Please see [./.dataset](./.dataset/) for further details.
 
 ## ✍️ How to cite us
 
