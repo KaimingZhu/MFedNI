@@ -5,7 +5,7 @@
 
 ## 🌟 Quick Start (Q&A)
 
-#### Q1: Where to start
+#### 🚩 Question 1: Where to start
 
 Please install necessary package.
 
@@ -14,12 +14,12 @@ Please install necessary package.
 pip install -r requirements.txt
 ```
 
-#### Question 2: Where could I reproduce MFedNI?
+#### 🚩 Question 2: Where could I reproduce MFedNI?
 
 - We have provided [a showcase of MFedNI](./mfedni.ipynb).
 - You might need to generate corresponding dataset before you start it, please see [./.dataset](./.dataset/) for further details.
 
-#### Question 3: How could I generate modal incomplete dataset?
+#### 🚩 Question 3: How could I generate modal incomplete dataset?
 
 Please see [./.dataset](./.dataset/) for further details.
 
